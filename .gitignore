@@ -1,0 +1,5 @@
+venv/
+deepseek_ocr/
+unsloth_compiled_cache/
+output/
+data/
